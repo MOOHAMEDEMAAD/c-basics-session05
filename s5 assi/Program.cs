@@ -48,7 +48,7 @@
             }
             else
             {
-                Console.WriteLine("Invalid genre");
+                Console.WriteLine("Unknown genre");
             }
             #endregion
         }
