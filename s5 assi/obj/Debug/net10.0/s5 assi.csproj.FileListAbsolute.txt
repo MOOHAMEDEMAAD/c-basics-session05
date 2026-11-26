@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\obj\Debug\net10.0\s5 assi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\obj\Debug\net10.0\s5 assi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\obj\Debug\net10.0\s5 assi.AssemblyInfo.cs
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\obj\Debug\net10.0\s5 assi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\bin\Debug\net10.0\s5 assi.exe
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\bin\Debug\net10.0\s5 assi.deps.json
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\bin\Debug\net10.0\s5 assi.runtimeconfig.json
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\bin\Debug\net10.0\s5 assi.runtimeconfig.dev.json
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\bin\Debug\net10.0\s5 assi.dll
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\bin\Debug\net10.0\s5 assi.pdb
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\obj\Debug\net10.0\s5 assi.dll
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\obj\Debug\net10.0\refint\s5 assi.dll
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\obj\Debug\net10.0\s5 assi.pdb
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\obj\Debug\net10.0\s5 assi.genruntimeconfig.cache
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\obj\Debug\net10.0\ref\s5 assi.dll
+C:\Users\user\Desktop\Backend\coding\s5\s5\s5 assi\obj\Debug\net10.0\s5 assi.csproj.Up2Date
